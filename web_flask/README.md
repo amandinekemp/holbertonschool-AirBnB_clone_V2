@@ -1,5 +1,5 @@
 <p align="center">
-    <img [AirBnB clone - Web framework] src="">
+    <img [AirBnB clone - Web framework] src="https://github.com/amandinekemp/holbertonschool-AirBnB_clone_v2/blob/master/web_flask/images/AirBnB_clone%20_Web_framework.png">
 </p>
 
 ----------
@@ -10,12 +10,12 @@
 
 ## ➤ Menu:
 
-* [➤ Resources]()
-* [➤ General]()
-* [➤ Requirements]()
-* [➤ More Info]()
-* [➤ Tasks]()
-* [➤ Author]()
+* [➤ Resources](https://github.com/amandinekemp/holbertonschool-AirBnB_clone_v2/tree/master/web_flask#-resources)
+* [➤ General](https://github.com/amandinekemp/holbertonschool-AirBnB_clone_v2/tree/master/web_flask#-general)
+* [➤ Requirements](https://github.com/amandinekemp/holbertonschool-AirBnB_clone_v2/tree/master/web_flask#-requirements)
+* [➤ More Info](https://github.com/amandinekemp/holbertonschool-AirBnB_clone_v2/tree/master/web_flask#-more-info)
+* [➤ Tasks](https://github.com/amandinekemp/holbertonschool-AirBnB_clone_v2/tree/master/web_flask#author-)
+* [➤ Author](https://github.com/amandinekemp/holbertonschool-AirBnB_clone_v2/tree/master/web_flask#author-)
 
 ----------
 
@@ -25,7 +25,7 @@ Read or watch:
 
 * [What is a Web Framework?](https://intranet.hbtn.io/rltoken/qk3bO45DSY-P4qmdnEX93w)
 * [A Minimal Application](https://intranet.hbtn.io/rltoken/DCF-0NHTuXLykc1ijX5HVg)
-* [Routing] (except “HTTP Methods”)(https://intranet.hbtn.io/rltoken/mfdHqOmCsS7veXQ3nK6PcQ)
+* [Routing(except “HTTP Methods”](https://intranet.hbtn.io/rltoken/mfdHqOmCsS7veXQ3nK6PcQ)
 * [Rendering Templates](https://intranet.hbtn.io/rltoken/_dU2691FhIZB3lBtSF5nMg)
 * [Synopsis](https://intranet.hbtn.io/rltoken/V24BEPWuJb3yPZpOvA3-Zw)
 * [Variables](https://intranet.hbtn.io/rltoken/GKvdWdthYkstOwnDs9LJWg)
@@ -784,6 +784,7 @@ guillaume@ubuntu:~$ curl 0.0.0.0:5000/cities_by_states ; echo ""
 </HTML>
 guillaume@ubuntu:~$
 ```
+![image task 9](https://github.com/amandinekemp/holbertonschool-AirBnB_clone_v2/blob/master/web_flask/images/task_9.jpg)
 
 Repo:
 
@@ -960,12 +961,13 @@ guillaume@ubuntu:~/AirBnB_v2$ HBNB_MYSQL_USER=hbnb_dev HBNB_MYSQL_PWD=hbnb_dev_p
 * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
 ....
 ```
+
 In the browser:
 
-![image task 10.1]()
-![image task 10.2]()
-![image task 10.3]()
-![image task 10.4]()
+![image task 10.1](https://github.com/amandinekemp/holbertonschool-AirBnB_clone_v2/blob/master/web_flask/images/task_10.1.jpg)
+![image task 10.2](https://github.com/amandinekemp/holbertonschool-AirBnB_clone_v2/blob/master/web_flask/images/task_10.2.jpg)
+![image task 10.3](https://github.com/amandinekemp/holbertonschool-AirBnB_clone_v2/blob/master/web_flask/images/task_10.3.jpg)
+![image task 10.4](https://github.com/amandinekemp/holbertonschool-AirBnB_clone_v2/blob/master/web_flask/images/task_10.4.jpg)
 
 Repo:
 
