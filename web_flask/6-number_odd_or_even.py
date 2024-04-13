@@ -40,10 +40,10 @@ def display_num(n):
     return f"{n} is a number"
 
 
-@app.route('/number_template/<int:n>', strict_slashes=False)
-def display_template(n):
-    """display the template"""
-    return render_template('5-number.html', n=n)
+@app.route("/number_template/<int:num>", strict_slashes=False)
+def number_template(num):
+    """Display a html"""
+    return render_template('5-number.html', n=num)
 
 
 @app.route('/number_odd_or_even/<int:n>', strict_slashes=False)
